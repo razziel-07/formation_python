@@ -18,3 +18,5 @@ print("Petit resume : ")
 print(prenom)
 print(ville)
 print(age)
+
+trash
